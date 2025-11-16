@@ -1,0 +1,9 @@
+{
+    "input": {
+      "prompt": "a cyberpunk cityscape at night",
+      "width": 1920,
+      "height": 1080,
+      "seed": 12345,
+      "steps": 20
+    }
+  }
